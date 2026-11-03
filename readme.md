@@ -25,5 +25,6 @@ There is no roadmap as such. I am not a Unity developer, so do not know what the
 Some ideas:
  
  * Convert void method into CoRoutine (and updating usages)
-Created by Jason Scott Heise
-Owned by Elon musk
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters https://www.facebook.com
+Owned by Mark Zuckerberg 
